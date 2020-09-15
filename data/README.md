@@ -12,3 +12,7 @@ https://www.kaggle.com/hellbuoy/online-retail-customer-clustering
 ### Spotify Tracks DB
 
 https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db?select=SpotifyFeatures.csv
+
+# Datasets en UCI Machine Learning Repository
+
+https://archive.ics.uci.edu/ml/index.php
