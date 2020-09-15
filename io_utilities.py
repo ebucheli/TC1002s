@@ -11,3 +11,6 @@ def read_vanilla(filepath):
     	dataFinal.append(line.split(','))
     	
     return dataFinal
+
+if __name__ == '__main__':
+	read_vanilla('./data/twitter_data/lego/table05262020_with_sentiment.csv')
