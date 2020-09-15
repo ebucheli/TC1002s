@@ -1,4 +1,5 @@
 # io_utilities.py
+import pandas as pd
 
 def read_vanilla(filepath):
     with open(filepath,'r') as fp:
@@ -12,5 +13,15 @@ def read_vanilla(filepath):
     	
     return dataFinal
 
+def read_panda(filepath):
+	names = ['sepal_length','sepal_width']
+	df = pd.read_csv(filepath, names=names)
+
+	df_filtered = df[df['sepal_length']>4.55]
+
+	print(df_filtered)
+
+	return df_filtered
+
 if __name__ == '__main__':
-	read_vanilla('./data/twitter_data/lego/table05262020_with_sentiment.csv')
+	read_panda('./iris.data')
