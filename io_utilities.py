@@ -11,4 +11,7 @@ def read_vanilla(filepath):
 def main():
     filepath = './data/iris.data'
     data=read_vanilla(filepath)
-    print(data_final)
+    print(data)
+
+if __name__ == '__main__':
+    main()
