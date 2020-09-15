@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# don't add databases
+
+data/breast-cancer-wisconsin.data
+data/iris.data
+data/wine.data
