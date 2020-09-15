@@ -7,6 +7,6 @@ def read_vanilla(filepath):
         data = fp.read()
     data_lines = data.split('\n')
     data_final = [f.split(',') for f in data_lines]
-    return data
+    return data_final
 
 print(read_vanilla(filepath))
