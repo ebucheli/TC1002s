@@ -5,7 +5,11 @@ En este repositorio encontrar la ayuda para una implementaci\'on del algoritmo K
 
 ### Resultados
 
-<img src="./images/example_run5/kmeans_Initialization.png" width="45%">
-<img src="./images/example_run5/kmeans_Iteration 3.png" width="45%">
-<img src="./images/example_run5/kmeans_Iteration 7.png" width="45%">
-<img src="./images/example_run5/kmeans_Result.png" width="45%">
+#### Figure: this text is ignored {#figure1}
+
+![](./images/example_run5/kmeans_Initialization.png){#figA width=45%}\
+![](./images/example_run5/kmeans_Iteration 3.png){#figB width=45%}
+![](./images/example_run5/kmeans_Iteration 7.png){#figC width=45%}
+![](./images/example_run5/kmeans_Result.png){#figD width=45%}
+
+Caption: Ejemplo de ejecuci\'on en Iris
