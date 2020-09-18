@@ -9,3 +9,5 @@ En este repositorio encontrar la ayuda para una implementación del algoritmo Km
 <img src="./images/example_run5/kmeans_Iteration 3.png" width="auto">
 <img src="./images/example_run5/kmeans_Iteration 7.png" width="auto">
 <img src="./images/example_run5/kmeans_Result.png" width="auto">
+
+<img src="./images/example_run4/kmeans_Result.png" width="auto">
