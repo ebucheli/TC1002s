@@ -5,9 +5,7 @@ En este repositorio encontrar la ayuda para una implementación del algoritmo Km
 
 ### Resultados
 
-#### Figure: this text is ignored {#figure1}
-
-![](./images/example_run5/kmeans_Initialization.png){#figA width=45%}\
-![](./images/example_run5/kmeans_Result.png){#figD width=45%}
-
-Caption: Ejemplo de ejecución en Iris
+<img src="./images/example_run5/kmeans_Initialization.png" width="auto">
+<img src="./images/example_run5/kmeans_Iteration 3.png" width="auto">
+<img src="./images/example_run5/kmeans_Iteration 7.png" width="auto">
+<img src="./images/example_run5/kmeans_Result.png" width="auto">
